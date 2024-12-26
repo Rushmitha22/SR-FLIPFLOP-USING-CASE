@@ -55,7 +55,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ### RTL OUTPUT :
 
-![sr flill output](https://github.com/user-attachments/assets/42b154d8-4bdf-4579-bfff-03d27b506464)
+![sr wave](https://github.com/user-attachments/assets/77e69e9e-df8b-4b8f-b0c3-35e8442e832e)
+
 
 ### RESULTS :
 Thus we have implemented SR flipflop using verilog and validating their functionality using their functional tables.
